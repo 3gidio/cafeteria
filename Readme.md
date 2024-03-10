@@ -19,3 +19,24 @@ git push
 ```bash
 git pull
 ```
+
+5. Branch
+
+Criar novo branch apartir do branch atual
+```bash
+git checkout -b nome-do-branch
+```
+
+Trazer todos os branches remotos 
+```bash
+git fetch
+```
+
+Trocar de branch
+```bash
+git switch nome-do-branch
+```
+
+
+
+
