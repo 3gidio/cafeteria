@@ -35,6 +35,11 @@ git fetch
 Trocar de branch
 ```bash
 git switch nome-do-branch
+
+# ou
+
+git checkout nome-do-branch
+
 ```
 
 
